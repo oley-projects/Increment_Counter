@@ -29,7 +29,7 @@ body {
     margin-top: 10px;
 }
 
-@media(max-width: 640px) {
+@media(max-width: 600px) {
     body {
         flex-direction: column;
     }
